@@ -1,0 +1,13 @@
+.star {
+  text-align: right;
+}
+
+.title {
+  text-transform: capitalize;
+  text-align: center;
+}
+
+.imageStyle {
+  height: 100px;
+  background-size: contain;
+}
