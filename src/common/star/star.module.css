@@ -1,0 +1,7 @@
+.unselected {
+  color: gray;
+}
+
+.selected {
+  color: goldenrod;
+}
