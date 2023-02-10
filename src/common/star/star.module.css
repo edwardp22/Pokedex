@@ -1,7 +1,9 @@
-.unselected {
+.starUnselected {
   color: gray;
+  cursor: pointer;
 }
 
-.selected {
+.starSelected {
   color: goldenrod;
+  cursor: pointer;
 }
