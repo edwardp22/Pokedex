@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render selected star 1`] = `
+<i
+  onClick={[Function]}
+>
+  <svg
+    aria-hidden={true}
+    className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium starSelected css-i4bv87-MuiSvgIcon-root"
+    data-testid="StarIcon"
+    focusable="false"
+    viewBox="0 0 24 24"
+  >
+    <path
+      d="M12 17.27 18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"
+    />
+  </svg>
+</i>
+`;
+
+exports[`should render unselected star 1`] = `
+<i
+  onClick={[Function]}
+>
+  <svg
+    aria-hidden={true}
+    className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium starUnselected css-i4bv87-MuiSvgIcon-root"
+    data-testid="StarIcon"
+    focusable="false"
+    viewBox="0 0 24 24"
+  >
+    <path
+      d="M12 17.27 18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"
+    />
+  </svg>
+</i>
+`;
